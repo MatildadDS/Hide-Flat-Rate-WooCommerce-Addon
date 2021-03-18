@@ -1,0 +1,1 @@
+# Hide-Flat-Rate-WooCommerce-Addon
